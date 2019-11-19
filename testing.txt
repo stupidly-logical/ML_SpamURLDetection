@@ -1,0 +1,3 @@
+1. Install dependencies (see README)
+2. Run: python index.py <YOUR_URL> <URL_LABEL>
+3. Some URLs can be taken from test_data.txt
